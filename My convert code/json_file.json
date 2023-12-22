@@ -1,0 +1,23 @@
+{
+    "emp_details":[
+		{
+                    "emp_name":"Ahmed",
+                    "email":"ahmed@gmail.com",
+                    "position":"SWE"
+                },
+                {
+                  "emp_name":"Ali",
+                    "email":"ali@gmail.com",
+                    "position":"HR"
+                },
+                {
+                  "emp_name":"Omer",
+                    "email":"omer@gmail.com",
+                    "position":"PR"
+                }
+
+                ]
+               
+  
+    
+}
